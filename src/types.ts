@@ -42,3 +42,9 @@ export type PipelinePhase =
   | 'completed'
   | 'cancelled'
   | 'error';
+
+export interface ApiErrorInfo {
+  message: string;
+  stage: PipelineStage;
+  retryable: boolean;
+}
