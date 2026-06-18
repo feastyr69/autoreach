@@ -1,2 +1,2 @@
-# AutoReach - Automated Cold Outreaching Platform
+# AutoReach - Automated Cold Outreach Platform
 
